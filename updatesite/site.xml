@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.ddlab.rnd.tornado.eclipse.screenshot.feature_1.0.0.201505242215.jar" id="com.ddlab.rnd.tornado.eclipse.screenshot.feature" version="1.0.0.201505242215">
+      <category name="Deba Eclipse Screenshot"/>
+   </feature>
+   <category-def name="Deba Eclipse Screenshot" label="Deba Eclipse Screenshot"/>
+</site>
